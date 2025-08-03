@@ -1,0 +1,30 @@
+{
+    "monster": "https://i.imgur.com/lU8uEzh.png",
+    "food": "https://media.tenor.com/uBNaZoU0nDwAAAAC/monster-hunter.gif",
+    "create": "https://i.imgur.com/lU8uEzh.png",
+    "info": "https://i.imgur.com/lU8uEzh.png",
+    "sell": "https://i.imgur.com/NJupVEE.png",
+    "weapon": "https://i.imgur.com/6qVNGvo.png",
+    "upgrade": "https://media.tenor.com/uBNaZoU0nDwAAAAC/monster-hunter.gif",
+    "bag": "https://i.imgur.com/lU8uEzh.png",
+    "upgradeBag": "https://i.imgur.com/z0J7bWI.jpg",
+    "location": "https://i.imgur.com/FN0vFgX.png",
+    "fix": "https://media.tenor.com/uBNaZoU0nDwAAAAC/monster-hunter.gif",
+    "eatGif": "https://media.tenor.com/_rlPYvxnhz8AAAAC/monster-hunter-eating-eating.gif",
+    "setWeapon": "https://media.tenor.com/F4LrEwOMeCEAAAAC/armour-monster-hunter-world.gif",
+  "GreatSword": "https://i.imgur.com/7Y06Dmh.png",
+  "Sword": "https://i.imgur.com/HgOsWVA.png",
+  "Blades": "https://i.imgur.com/GyuXRup.png",
+  "Lance": "https://i.imgur.com/5ChWDgC.png",
+  "HBG": "https://i.imgur.com/zOyfyHD.png",
+  "LBG": "https://i.imgur.com/tvsFxze.png",
+  "GunLance": "https://i.imgur.com/9DBGE5z.png",
+  "accessories": "https://i.imgur.com/6Ncd8Us.png",
+    "levelUp": "https://media.tenor.com/H-kM9s1KygAAAAAC/level-up.gif",
+    "server": "https://media.tenor.com/QNFznynUWtMAAAAM/rajang-monster-hunter.gif",
+    "status_room": {
+        "1": "thieu nguoi",
+        "2": "du nguoi",
+        "3": "dang danh nhau"
+    }
+}

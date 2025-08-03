@@ -61,7 +61,7 @@ module.exports = function ({ api, models, Users, Threads, Currencies }) {
             for (const cmd of commandValues) allCommandName.push(cmd)
             const checker = stringSimilarity.findBestMatch(commandName, allCommandName);
             if (checker.bestMatch.rating >= 0.5) command = client.commands.get(checker.bestMatch.target);
-            else return api.sendMessage(`❎ Lệnh không tồn tại, lệnh gần giống là: ${checker.bestMatch.target}`, threadID, messageID);
+            else return api.sendMessage(`[ Ryan ] - Dynamic \n ❎ Lệnh không tồn tại, lệnh gần giống là: ${checker.bestMatch.target}`, threadID, messageID);
         }  
         if (commandBanned.get(threadID) || commandBanned.get(senderID)) {
             if (!ADMINBOT.includes(senderID)) {
@@ -106,7 +106,7 @@ module.exports = function ({ api, models, Users, Threads, Currencies }) {
          };
          const requiredPermission = rolePermissions[command.config.hasPermssion] || "";
          if (command.config.hasPermssion > permssion) {
-                 return api.sendMessage(`📌 Lệnh ${command.config.name} có quyền hạn là ${requiredPermission}`, threadID, async (err, info) => {
+                 return api.sendMessage(`[ Ryan ] - Dynamic \n [ warning ] 📌 Lệnh ${command.config.name} có quyền hạn là ${requiredPermission}`, threadID, async (err, info) => {
                  await new Promise(resolve => setTimeout(resolve, 15 * 1000));
                  return api.unsendMessage(info.messageID);
             }, messageID);

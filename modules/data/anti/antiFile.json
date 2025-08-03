@@ -1,0 +1,20 @@
+{
+  "25051623374452223": {
+    "namebox": "test bot víp bờ rồ okk!",
+    "avtbox": "https://scontent.fhan5-9.fna.fbcdn.net/v/t1.15752-9/455886163_366429356516310_8042660347982840038_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=935a9d&_nc_ohc=7jnE8s2-8zAQ7kNvgEg0lbp&_nc_ht=scontent.fhan5-9.fna&_nc_gid=AQV7ksgByNBX1UsmHr-YlX2&oh=03_Q7cD1QFmwLSqaiJWz7T_VYd9BSIJVlA8cgXJawMEeLInsQYNLw&oe=671B40A1",
+    "out": true
+  },
+  "8635678413206032": {
+    "namebox": "test bot",
+    "out": true,
+    "join": true,
+    "emoji": "💆‍♂️",
+    "spam": true,
+    "theme": "1633544640877832",
+    "resend": true,
+    "bban": true
+  },
+  "6878534095548019": {
+    "spamb": true
+  }
+}

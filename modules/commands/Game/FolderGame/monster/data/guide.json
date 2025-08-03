@@ -1,0 +1,97 @@
+[
+    {
+        "ID": 0,
+        "nameGuide": "Hướng dẫn lập tài khoản",
+        "guide": "Đầu tiên hãy dùng create (chi tiết ở menu guide, dòng dưới cùng), bạn sẽ nhận được thông báo đã đăng kí tài khoản cùng với thiên phú và một vũ khí khởi đầu"
+    },
+    {
+        "ID": 1,
+        "nameGuide": "Hướng dẫn chơi cho người mới",
+        "guide": "Sau khi tạo tài khoản thành công, hãy dùng bag để mở túi và trang bị cây kiếm khởi đầu đối với người chơi mới, sau đó dùng location-normal chọn mã vùng đầu tiên - tương ứng level 1 cho người khởi đầu.\n\nHãy chú ý thể lực của bản thân, nếu hết thể lực, hãy vào shop và mua đồ ăn, dùng bag để mở túi và sử dụng đồ ăn\n\n Quái sau khi hạ sẽ rơi vào storage do đó cần phải vô shop để bán chúng đi\n\n Dùng stat để mở giao diện thiên phú, skill point và nâng cấp chỉ số theo hướng dẫn"
+    },
+    {
+        "ID": 2,
+        "nameGuide": "Giới thiệu cơ chế chiến đấu",
+        "guide": "Dùng info, bạn sẽ có được thông tin cụ thể về bản thân:\n\nHP: Máu - Khả năng chịu đựng\nATK: Tấn công - khả năng gây sát thương\nDEF: giáp - phỏng thủ giảm sát thương gánh chịu\nSPD: Tốc độ - quyết định tốc độ ra đòn và lượt ra đòn\n\nTrong trận, bên nào có tốc độ cao hơn sẽ là bên đánh trước, tốc độ càng cao thì số lần tung đòn càng lớn"
+    },
+    {
+        "ID": 3,
+        "nameGuide": "Về phần location-normal và location-boss",
+        "guide": "Keyword location-normal cho phép ngườI chơi xem danh sách những khu vực xuất hiện các loại quái nhỏ và bình thường, cho đến hạng trung và một số ít quái cấp cao từ hạng Giant Monster trở lên.\n\nKeyword location-boss cho phép người chơi xem danh sách những khu vực đặc biệt, đây là tổ của những con boss thuộc hạng Dragon, True Dragon, Dragon Lord và True Dragon Lord. Những khu vực này có level đầu vào rất cao cùng với đó là một con boss rất mạnh với lực chiến vài chục triệu, vài trăm triệu đến vài tỷ"
+    },
+    {
+        "ID": 4,
+        "nameGuide": "Tất cả các hạng quái",
+        "guide": "Hiện tại có các hạng quái sau: \n1. Small monster\n2. Medium monster\n3. Big monster\n4. Giant monster\n5. Elder Dragon\n6. Dragon\n7. True Dragon\n8. Dragon Lord\n9. True Dragon Lord\n\n Ở hạng cấp cao từ số 5 đến 9, chúng sẽ có Passive Stats - Thuộc Tính Nội Tại tăng khả năng chiến đấu, độ nguy hiểm."
+    },
+    {
+        "ID": 5,
+        "nameGuide": "Passive Stats - Thuộc Tính Nội Tại",
+        "guide": "Là một loại chỉ số đặc biệt của một số quái và vũ khí:\n- Quái: là thuộc tính buff của quái trong trận, nó sẽ tăng theo % chỉ số tương ứng. Ví dụ một con Xeno'jiiva có thuộc tính Tăng ATK là 350%, khi lâm trận thì sát thương của nó sẽ là 350% ATK cơ bản của nó.\n\n- Vũ khí: đối với vũ khí, đây là thuộc tính độc nhất theo loại vũ khí mà bạn mang theo, cơ chế cũng tương tự như của quái và đều phát huy trong trận.\n\nChỉ số hiển thị ở 100% là bằng với chỉ số gốc, trên 100% là tăng so với chỉ số gốc và dưới 100% là giảm đi so với chỉ số gốc."
+    },
+    {
+        "ID": 6,
+        "nameGuide": "Passive Stats - Xuyên Giáp",
+        "guide": "Một loại thuộc tính kì diệu có trên cả quái cấp cao và vũ khí, khả năng của nó là giảm theo % lượng giáp - DEF của đối phương, giảm đến 99% thì nó sẽ thành sát thương chuẩn, bỏ qua phòng thủ (Trường hợp của Kirin)"
+    },
+    {
+        "ID": 7,
+        "nameGuide": "Chỉ số Karma - Nghiệp chướng",
+        "guide": "Karma là một chỉ số đặc biệt, nó tăng dần mỗi khi có một con quái bị hạ bởi bạn.\n\n Ảnh hưởng lớn nhất của Karma đó là tăng level của toàn bộ những con quái mà bạn gặp, cứ mỗi khi Karma tăng 10 thì quái sẽ tăng 10 level, lần lượt như thế và tối đa là tăng đến 100 level.\n\nĐể có thể giảm được Karma xuống, bạn cần sử dụng Nước Thánh - được bán ở shop, phần Mua đồ ăn."
+    },
+    {
+        "ID": 8,
+        "nameGuide": "Thiên Phú",
+        "guide": "Là thuộc tính ảnh hưởng đến khả năng tăng trưởng của nhân vật sau này, có sẵn và cố định ngay từ khi tạo tài khoản\n\n Thiên phú sẽ ảnh hưởng đến hệ số quy đổi điểm skill point sang chỉ số tương ứng, mức quy đổi phụ thuộc vào bậc Thiên Phú từ D đến S"
+    },
+    {
+        "ID": 9,
+        "nameGuide": "Thay đổi Thiên Phú",
+        "guide": "Thiên Phú có thể được thay đỔi bằng những vật phẩm trong shop - Shop đặc biệt, sử dụng vật phẩm giúp Isekai - Chuyển Sinh thành một cái gì đó có chúa mới biết với cái giá là bị reset lại chỉ số gốc về ban đầu, về với level ban đầu là 1"
+    },
+    {
+        "ID": 10,
+        "nameGuide": "Giáo án - Great Sword",
+        "guide": "Great Sword là dòng vũ khí khá mạnh, với nội tại 200% sát thương nhưng điểm yếu lại là giảm 50% tốc độ\n\nDo đó, thứ tự ưu tiên chỉ số của dòng Great Sword sẽ là ATK - SPD - HP - DEF để có thể tối ưu hoá lượng sát thương gây ra và khắc phục điểm yếu, tránh đối đầu những con quái có tốc độ cao"
+    },
+    {
+        "ID": 11,
+        "nameGuide": "Giáo án - Lance",
+        "guide": "Lance là dòng vũ khí thiên về khả năng phòng thủ với nội tại 200~250% DEF, điểm yếu là giảm 50% tốc độ\n\nThứ tự ưu tiên chỉ số là DEF - HP - SPD - ATK, lối chơi đôi công miễn là giáp không bị xuyên thì đếch sợ bố con thằng nào, yếu thế trước những con quái có khả năng Xuyên Giáp cao"
+    },
+    {
+        "ID": 12,
+        "nameGuide": "Giáo án - Sword'n Shield",
+        "guide": "Đây là dòng vũ khí cân bằng phù hợp với mọi kiểu build, lối nào cũng chơi được.\n\n Kiểu chỉ số phù hợp với dòng vũ khí này là cân bằng cả công thủ tốc và HP, tránh build lệch chỉ số quá lớn dẫn đến lộ điểm yếu"
+    },
+    {
+        "ID": 13,
+        "nameGuide": "Giáo án - Dual Blades",
+        "guide": "Dòng Dual Blades có tốc độ ra đòn lên tới 200% nhưng nhược điểm lại là bị giảm giáp, dễ bị tổn thương và nếu không xuyên giáp được đỐi phương thì là bản án tử\n\n Thứ tự ưu tiên chỉ số đối với dòng vũ khí này là SPD - ATK - DEF - HP"
+    },
+    {
+        "ID": 14,
+        "nameGuide": "Giáo án - Heavy Bowgun - HBG",
+        "guide": "Dòng Heavy Bowgun, gọi tắt là HBG có lượng sát thương là vô cùng khủng bố với 350% ATK và khả năng xuyên giáp tối đa lên tới 50~70% nhưng đây là dòng dễ tổn thương nhất khi chỉ còn 50% DEF và tốc độ\n\n Để có thể tối ưu hoá dòng vũ khí này, không nên sử dụng HBG trong giai đoạn đầu game, hãy chờ đến khi bạn đã có level đủ cao với dàn chỉ số ổn định thì mới nên dùng\n\n Thứ tự ưu tiên chỉ số là SPD - ATK - HP - DEF"
+    },
+    {
+        "ID": 15,
+        "nameGuide": "Giáo án - Light Bowgun - LBG",
+        "guide": "Dòng Light Bowgun, gọi tắt là LBG có lượng sát thương khá cao, tốc độ nhanh, xuyên giáp tốt ở mức 10~15%, bù lại giáp bị giảm xuống 50%\n\n Để có thể tối ưu hoá dòng vũ khí này, thứ tự ưu tiên chỉ số là ATK - SPD - DEF - HP"
+    },
+    {
+        "ID": 16,
+        "nameGuide": "Giáo án - Gunlance",
+        "guide": "Dòng Gunlance, một dòng vũ khí có cả công cao lẫn thủ tốt, có khả năng xuyên giáp tốt, nhưng bù lại thì lại có tốc độ thấp nhât\n\n Thứ tự ưu tiên chỉ số cho dòng Gunlance đó là ATK - DEF - SPD - HP"
+    },
+    {
+        "ID": 17,
+        "nameGuide": "Hệ thống ranking, ghép trận ngẫu nhiên",
+        "guide": "Trong chế độ ghép trận solo ngẫu nhiên với người chơi khác (fight), sẽ tính bằng chỉ số cơ bản của nhân vật và loại bỏ vũ khí\n\n Nếu thắng, người chơi sẽ nhận được điểm Rating, Rating càng cao thì bậc rank càng lớn, mức tăng sau khi thắng cũng liên quan đến điểm rank đối phương, nếu đối phương thấp điểm hơn thì cũng sẽ giảm điểm nhận được và ngược lại"
+    },
+    {
+        "ID": 18,
+        "nameGuide": "Tất cả các bậc Rank",
+        "guide": "Hiện tại có tất cả các bậc rank sau:\n\n1. Đồng\n2. Bạc\n3. Vàng\n4. Bạch Kim\n5. Kim Cương\n6. Tinh Anh\n7. Cao thủ\n8. Chiến Thần\n9. Đại Đế\n\n Mỗi bậc lại phân ra thành các cấp từ 1 sao đến 3 sao"
+    }
+]

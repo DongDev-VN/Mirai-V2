@@ -14,18 +14,20 @@
     "DeveloperMode": false,
     "autoCreateDB": true,
     "allowInbox": true,
-    "commandDisabled": [],
+    "commandDisabled": [
+        "ct.js"
+    ],
     "eventDisabled": [],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
     "FACEBOOK_ADMIN": "",
-    "BOTNAME": "Mirai-V3-Unofficial",
-    "PREFIX": "!",
-    "BOXADMIN": "6804616456270022",
+    "BOTNAME": "Ryan",
+    "PREFIX": ",",
+    "BOXADMIN": "",
     "ADMINBOT": [],
     "NDH": [
-        "502275138"
+        "100081730332704"
     ],
     "version": "3.0.0",
     "menu": {
@@ -33,5 +35,8 @@
             "status": true,
             "timeOut": 60
         }
+    },
+    "log": {
+        "enable": true
     }
 }

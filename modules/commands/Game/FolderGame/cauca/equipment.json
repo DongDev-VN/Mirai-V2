@@ -1,0 +1,128 @@
+[
+	{
+		"name": "Phụ Kiện hỗ trợ tái nạp I",
+		"price": 20000,
+		"countdownDecrease": 0.95,
+        "priceIncrease": 1,
+		"luck": 0,
+        "description": "Giảm thời gian chờ câu 5%",
+		"image": "https://i.imgur.com/XMzOLB0.png"
+	},
+	{
+		"name": "Phụ Kiện hỗ trợ tái nạp II",
+		"price": 50000,
+		"countdownDecrease": 0.9,
+        "priceIncrease": 1,
+		"luck": 0,
+        "description": "Giảm thời gian chờ câu 10%",
+		"image": "https://i.imgur.com/Rax6wvK.png"
+	},
+	{
+		"name": "Phụ Kiện hỗ trợ tái nạp III",
+		"price": 90000,
+		"countdownDecrease": 0.8,
+        "priceIncrease": 1,
+		"luck": 0,
+        "description": "Giảm thời gian chờ câu 20%",
+		"image": "https://i.imgur.com/myRqkG6.png"
+	},
+	{
+		"name": "Phụ Kiện hỗ trợ tái nạp IV",
+		"price": 150000,
+		"countdownDecrease": 0.7,
+        "priceIncrease": 1,
+		"luck": 0,
+        "description": "Giảm thời gian chờ câu 30%",
+		"image": "https://i.imgur.com/jFBUu3H.png"
+	},
+	{
+		"name": "Phụ Kiện hỗ trợ tái nạp V",
+		"price": 320000,
+		"countdownDecrease": 0.6,
+        "priceIncrease": 1,
+		"luck": 0,
+        "description": "Giảm thời gian chờ câu 40%",
+		"image": "https://i.imgur.com/DU7tplL.png"
+	},
+	{
+		"name": "Phụ Kiện Kiểm soát thiệt hại I",
+		"price": 100000,
+		"countdownDecrease": 1,
+        "priceIncrease": 1.05,
+		"luck": 0,
+        "description": "Tăng giá trị của con cá câu được thêm 5%",
+		"image": "https://i.imgur.com/OwUpKfi.png"
+	},
+	{
+		"name": "Phụ Kiện Kiểm soát thiệt hại II",
+		"price": 230000,
+		"countdownDecrease": 1,
+        "priceIncrease": 1.1,
+		"luck": 0,
+        "description": "Tăng giá trị của con cá câu được thêm 10%",
+		"image": "https://i.imgur.com/cddh3pp.png"
+	},
+	{
+		"name": "Phụ Kiện Kiểm soát thiệt hại III",
+		"price": 500000,
+		"countdownDecrease": 1,
+        "priceIncrease": 1.15,
+		"luck": 0,
+        "description": "Tăng giá trị của con cá câu được thêm 15%",
+		"image": "https://i.imgur.com/2OFkK5y.png"
+	},
+	{
+		"name": "Phụ Kiện Kiểm soát thiệt hại IV",
+		"price": 1040000,
+		"countdownDecrease": 1,
+        "priceIncrease": 1.2,
+		"luck": 0,
+        "description": "Tăng giá trị của con cá câu được thêm 20%",
+		"image": "https://i.imgur.com/3gtgdHu.png"
+	},
+	{
+		"name": "Phụ Kiện Kiểm soát thiệt hại V",
+		"price": 3200000,
+		"countdownDecrease": 1,
+        "priceIncrease": 1.25,
+		"luck": 0,
+        "description": "Tăng giá trị của con cá câu được thêm 25%",
+		"image": "https://i.imgur.com/YSSvLWZ.png"
+	},
+	{
+		"name": "Phụ Kiện Radar Sinh vật I",
+		"price": 1750000,
+		"countdownDecrease": 1,
+        "priceIncrease": 1,
+		"luck": 34000,
+        "description": "Tự động loại bỏ cá thuộc hạng Common, tăng nhẹ xác suất câu cá hiếm",
+		"image": "https://i.imgur.com/VGwrLJM.png"
+	},
+	{
+		"name": "Phụ Kiện Radar Sinh vật II",
+		"price": 5120000,
+		"countdownDecrease": 1,
+        "priceIncrease": 1,
+		"luck": 59000,
+        "description": "Tự động loại bỏ cá thuộc hạng Common, Uncommon trở xuống, tăng xác suất câu cá hiếm",
+		"image": "https://i.imgur.com/VGwrLJM.png"
+	},
+	{
+		"name": "Phụ Kiện Radar Sinh vật III",
+		"price": 65120000,
+		"countdownDecrease": 1,
+        "priceIncrease": 1,
+		"luck": 79000,
+        "description": "Tự động loại bỏ cá thuộc hạng Common, Uncommon, Rare trở xuống, tăng mạnh xác suất câu cá hiếm",
+		"image": "https://i.imgur.com/VGwrLJM.png"
+	},
+	{
+		"name": "Phụ Kiện Của Đấng Toàn Năng",
+		"price": 25450000000,
+		"countdownDecrease": 0.7,
+        "priceIncrease": 1.3,
+		"luck": 79000,
+        "description": "Tự động loại bỏ cá thuộc hạng Common, Uncommon, Rare trở xuống, tăng mạnh xác suất câu cá hiếm",
+		"image": "https://i.imgur.com/VGwrLJM.png"
+	}
+]

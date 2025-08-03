@@ -1,0 +1,128 @@
+[
+    {
+        "ID": 0,
+        "location": "Novice Farm✨(1k+)",
+        "area": "normal",
+        "level": 1
+    },
+    {
+        "ID": 1,
+        "location": "Ancient Forest (50k+)",
+        "area": "normal",
+        "level": 5
+    },
+    {
+        "ID": 2,
+        "location": "Elder's Recess (250k+)",
+        "area": "normal",
+        "level": 10
+    },
+    {
+        "ID": 3,
+        "location": "Wildspire Waste (200k+)",
+        "area": "normal",
+        "level": 15
+    },
+    {
+        "ID": 4,
+        "location": "Coral Highlands (600k+)",
+        "area": "normal",
+        "level": 24
+    },
+    {
+        "ID": 5,
+        "location": "Rotten Vales (600k+)",
+        "area": "normal",
+        "level": 30
+    },
+    {
+        "ID": 6,
+        "location": "Hoarfrost Reach (500k+)",
+        "area": "normal",
+        "level": 35
+    },
+    {
+        "ID": 7,
+        "location": "Confluence of Fates《☠️☠️》(900k+)",
+        "area": "boss",
+        "level": 45
+    },
+    {
+        "ID": 8,
+        "location": "Caverns of El Dorado《☠☠️》",
+        "area": "boss",
+        "level": 40
+    },
+    {
+        "ID": 9,
+        "location": "Secluded Valley《☠☠️》(900k+)",
+        "area": "boss",
+        "level": 48
+    },
+    {
+        "ID": 10,
+        "location": "Great Ravine《☠☠️☠️》",
+        "area": "boss",
+        "level": 55
+    },
+    {
+        "ID": 11,
+        "location": "Caste Schrade《☠☠️☠️》(80m+)",
+        "area": "boss",
+        "level": 60
+    },
+    {
+        "ID": 12,
+        "location": "Shrine Ruins",
+        "area": "normal",
+        "level": 5
+    },
+    {
+        "ID": 13,
+        "location": "Flooded Forest (200k+)",
+        "area": "normal",
+        "level": 10
+    },
+    {
+        "ID": 14,
+        "location": "Coral Palace《☠☠️☠️☠️☠️》(100m+)",
+        "area": "boss",
+        "level": 50
+    },
+    {
+        "ID": 15,
+        "location": "Frost Islands (200k+)",
+        "area": "normal",
+        "level": 15
+    },
+    {
+        "ID": 16,
+        "location": "Origin Isle 《☠☠️》(1m+)",
+        "area": "boss",
+        "level": 45
+    },
+    {
+        "ID": 17,
+        "location": "Sandy Plains(50k+)",
+        "area": "normal",
+        "level": 20
+    },
+    {
+        "ID": 18,
+        "location": "Lava Caverns (70k+)",
+        "area": "normal",
+        "level": 25
+    },
+    {
+        "ID": 19,
+        "location": "Yawning Abyss《☠️☠️☠️》(70m+)",
+        "area": "boss",
+        "level": 60
+    },
+    {
+        "ID": 20,
+        "location": "Great Desert《☠️☠️☠️》(100m+)",
+        "area": "boss",
+        "level": 60
+    }
+]

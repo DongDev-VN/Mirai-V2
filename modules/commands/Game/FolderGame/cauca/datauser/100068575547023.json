@@ -1,0 +1,31 @@
+{
+    "name": "Phúc Nguyễn",
+    "ID": "100068575547023",
+    "mainROD": null,
+    "accessory": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+            "category": "Unnamed",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "equipments": [],
+    "point": [
+        {
+            "ID": 0,
+            "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+            "category": "Unnamed",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "timeRegister": "20:41:31, 22/10/2024"
+}

@@ -2,7 +2,7 @@ const { spawn } = require("child_process");
 const logger = require("./utils/log");
 function startBot(message) {
     (message) ? logger(message, "[ Starting ]") : "";
-    const child = spawn("node", ["--trace-warnings", "--async-stack-traces", "mirai.js"], {
+    const child = spawn("node", ["--trace-warnings", "--async-stack-traces", "eddy.js"], {
         cwd: __dirname,
         stdio: "inherit",
         shell: true

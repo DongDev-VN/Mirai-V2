@@ -1,0 +1,18 @@
+{
+    "name": "Vũ Văn Tuấn",
+    "ID": "509484270",
+    "shield": 3,
+    "coins": 10023000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 117,
+    "timeRegister": "00:14:59, 19/1/2025"
+}
